@@ -19,6 +19,9 @@ A simple console-based quiz game.
 ### 5. Rock Paper Scissors
 A console-based Rock Paper Scissors game.
 
+### 6. Card Counter
+A simple card counter for beginners.
+
 ## Concepts I Practiced
 
 - Variables and Data Types
